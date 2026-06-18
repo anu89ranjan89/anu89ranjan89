@@ -74,5 +74,5 @@ Git | GitHub | Linux basics | Canva | VS Code
 
 ## 📫 Connect With Me
 
-LinkedIn: Anupriya Ranjan | LinkedIn
+LinkedIn: https://www.linkedin.com/in/anupriya-ranjan-956580384/
 Email: anu89ranjan89@gmail.com
