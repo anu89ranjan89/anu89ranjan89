@@ -178,7 +178,7 @@ flowchart TB
 
 </details>
 
-📓 *Notes, diagrams and case studies live in:* **[system-design-notes](https://github.com/anu89ranjan89/system-design-notes)** *(create this repo and push your notes)*
+
 
 ---
 
