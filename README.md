@@ -8,7 +8,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=anu89ranjan89&label=Profile%20Views&color=8B5CF6&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupriya-ranjan-956580384/)
 [![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anu89ranjan89@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-EC4899?style=for-the-badge&logo=vercel&logoColor=white)](https://anu-portfolio-ashen.vercel.app/)
